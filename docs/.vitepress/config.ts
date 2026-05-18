@@ -27,6 +27,8 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           { text: 'Example', link: '/example' },
+          { text: 'Desenvolvimento', link: '/desenvolvimento' },
+
           // ...
         ],
       },
